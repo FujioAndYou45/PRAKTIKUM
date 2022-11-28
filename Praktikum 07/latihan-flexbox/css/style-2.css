@@ -1,0 +1,11 @@
+.koleksi {
+    background-color: rgb(196, 196, 0);
+    padding: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.koleksi img {
+    width: 200px;
+}
